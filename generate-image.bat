@@ -1,0 +1,1 @@
+magick montage 01.jpg 02.jpg 2x1 -geometry +0+0 -quality 100 result.png
